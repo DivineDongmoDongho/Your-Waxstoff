@@ -1,8 +1,10 @@
 # YourWaxStoff 🛍️
 
-YourWaxStoff ist eine Webanwendung, die wir im Rahmen eines Gruppenprojekts während unseres Wirtschaftsinformatik-Studiums an der Hochschule für Wirtschaft und Gesellschaft Ludwigshafen entwickelt haben.
+YourWaxStoff ist eine Java-basierte Webanwendung, die wir im Rahmen eines Gruppenprojekts im Studiengang Wirtschaftsinformatik an der Hochschule für Wirtschaft und Gesellschaft Ludwigshafen entwickelt haben.
 
-Die Idee war, eine Plattform zu erstellen, auf der Kunden Waxstoffe entdecken und individuell angefertigte Kleidung bestellen können.
+## Projektidee
+Die Idee hinter YourWaxStoff ist es, den Zugang zu Waxstoffen und individuell angefertigter Kleidung zu erleichtern.
+Unsere Anwendung ermöglicht es Kunden, verschiedene Stoffe und Kleidungsmodelle online zu entdecken und eine Bestellung bei einer Schneiderei aufzugeben.
 
 ## Funktionen 
 
@@ -11,23 +13,22 @@ Die Idee war, eine Plattform zu erstellen, auf der Kunden Waxstoffe entdecken un
 - Bestellfunktion und Bestellverfolgung
 - Unterstützung bei der Auswahl passender Kleidergrößen
 
-## Verwendete Technologien
+## Verwendete Technologien 🛠️
 
 - Java und JSP
 - HTML, CSS und JavaScript
 - PostgreSQL
 - JDBC
 
-## Über das Projekt
+## Über das Projekt📚
 
 Wir haben die Anwendung gemeinsam als Team entwickelt und getestet.
-
 Dabei konnte ich praktische Erfahrungen mit der Entwicklung einer Java-Webanwendung, der Arbeit mit Datenbanken und der Zusammenarbeit in einem Softwareprojekt sammeln.
 
-## Team
+## Team👥
 
 - Ange Teufa
-- Divine Dogmo
+- Divine Dongmo
 - Adrien Tcheutchoua
 
 ## Screenshots
