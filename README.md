@@ -32,11 +32,11 @@ Dabei konnte ich praktische Erfahrungen mit der Entwicklung einer Java-Webanwend
 
 ## Screenshots
 <img width="953" height="448" alt="Screenshot 2026-11-14 155442" src="https://github.com/user-attachments/assets/0e24a9b4-053a-4e08-bd71-c16bdf440e37" />
+<img width="286" height="116" alt="Screenshot 2026-11-14 155737" src="https://github.com/user-attachments/assets/efedaa78-85c6-47e9-a7fc-2f144b9cfac7" />
 <img width="959" height="466" alt="Screenshot 2026-11-14 160814" src="https://github.com/user-attachments/assets/3607052f-f87e-4c4d-8dd0-3376e630d16e" />
 <img width="956" height="470" alt="Screenshot 2026-11-14 155759" src="https://github.com/user-attachments/assets/88c81a5f-6088-4379-b8a5-c2919bb79b6a" />
+<img width="959" height="467" alt="Screenshot 2026-11-14 160728" src="https://github.com/user-attachments/assets/5c89117c-1b1b-42b0-8544-91cf9c8fd920" />
 
-
-Hier werden später Bilder der Anwendung eingefügt.
 
 ## Live-Demo
 https://yourwaxstoff.onrender.com
