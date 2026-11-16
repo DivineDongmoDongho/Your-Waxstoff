@@ -1,0 +1,22 @@
+# Zugangsdaten (wichtig!)
+db.properties
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+
+# Kompilierte Dateien und Build
+bin/
+build/
+out/
+*.class
+
+# IntelliJ (falls jemand im Team es nutzt)
+.idea/
+*.iml
+
+# Betriebssystem
+.DS_Store
+Thumbs.db

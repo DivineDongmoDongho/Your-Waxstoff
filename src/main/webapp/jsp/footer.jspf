@@ -1,0 +1,30 @@
+    <script src="../js/script.js"></script>
+
+<%
+    if ("1".equals(request.getParameter("loginFehler"))) {
+%>
+        <script>
+            alert("E-Mail oder Passwort ist falsch.");
+            openPopup('login-popup');
+        </script>
+<%
+    }
+    if ("1".equals(request.getParameter("registrierungFehler"))) {
+%>
+        <script>
+            alert("Für diese E-Mail-Adresse existiert bereits ein Konto.");
+            openPopup('register-popup');
+        </script>
+<%
+    }
+    if ("1".equals(request.getParameter("bitteEinloggen"))) {
+%>
+        <script>
+            alert("Bitte melde dich zuerst an, um zu bestellen.");
+            openPopup('login-popup');
+        </script>
+<%
+    }
+%>
+</body>
+</html>

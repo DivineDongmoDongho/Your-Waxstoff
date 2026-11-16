@@ -1,0 +1,6 @@
+db.server=HOST_ODER_IP
+db.port=5435
+db.name=DATENBANKNAME
+db.user=BENUTZERNAME
+db.password=PASSWORT
+db.schema=bwi520_eure_gruppe
