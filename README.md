@@ -37,7 +37,9 @@ Startseite
 Anmeldung oder Registrierung vor der Bestellung 
 <img width="959" height="466" alt="Screenshot 2026-11-14 160814" src="https://github.com/user-attachments/assets/3607052f-f87e-4c4d-8dd0-3376e630d16e" />
 Alternative durch den Icon
+
 <img width="286" height="116" alt="Screenshot 2026-11-14 155737" src="https://github.com/user-attachments/assets/efedaa78-85c6-47e9-a7fc-2f144b9cfac7" />
+
 Größenberater
 <img width="956" height="470" alt="Screenshot 2026-11-14 155759" src="https://github.com/user-attachments/assets/88c81a5f-6088-4379-b8a5-c2919bb79b6a" />
 Bestellung verfolgen
