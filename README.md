@@ -20,11 +20,6 @@ Unsere Anwendung ermöglicht es Kunden, verschiedene Stoffe und Kleidungsmodelle
 - PostgreSQL
 - JDBC
 
-## Über das Projekt📚
-
-Wir haben die Anwendung gemeinsam als Team entwickelt und getestet.
-Dabei konnte ich praktische Erfahrungen mit der Entwicklung einer Java-Webanwendung, der Arbeit mit Datenbanken und der Zusammenarbeit in einem Softwareprojekt sammeln.
-
 ## Team👥
 
 - Ange Teufa
